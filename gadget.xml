@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="Chess" author="Mic">
+  <ModulePrefs title="TestGadget" author="Nashamos">
         <Require feature="wave" />
         <Require feature="dynamic-height" />
     </ModulePrefs>
