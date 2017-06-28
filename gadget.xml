@@ -6,7 +6,8 @@
     </ModulePrefs>
   <Content type="html">
     <![CDATA[     
-       Hello, Wave!
-    ]]>
+       <div>Hello, Wave!</div>
+       <p>paragraph</p>
+    ]]
   </Content>
 </Module>
