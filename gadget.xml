@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="Hello Wave">
-    <Require feature="wave" /> 
-  </ModulePrefs>
+  <ModulePrefs title="Chess" author="Mic">
+        <Require feature="wave" />
+        <Require feature="dynamic-height" />
+    </ModulePrefs>
   <Content type="html">
     <![CDATA[     
        Hello, Wave!
